@@ -7,6 +7,6 @@ public class Clinic {
 
 
     public static void main(String[] args) throws InterruptedException {
-        System.out.println("Hello from develop");
+        System.out.println("Hello from new_new");
     }
 }
