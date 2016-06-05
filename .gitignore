@@ -1,6 +1,9 @@
 *.iml
+*.iws
 .idea/
 target/
+/out/
+log/
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
